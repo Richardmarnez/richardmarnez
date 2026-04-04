@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Richard M.
 
-<!--
-**Richardmarnez/richardmarnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 São Paulo, SP  
+🎯 **Objetivo:** Migrar para a área de Cibersegurança (Blue Team / SOC)  
+📚 **Atualmente:** Estudando os fundamentos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 O que estou estudando NESTE MOMENTO
+
+- 🔐 **Hackers do Bem (RNP/SENAI-SP)** – Módulo Básico (redes, segurança, Linux)
+- 🐧 **Linux fundamental** – comandos, terminal, permissões
+- 🌐 **Redes de computadores** – TCP/IP, protocolos, endereçamento
+- 🐍 **Lógica de programação** – base para Python futuro
+
+> ⚡ Tudo do zero. Estou construindo minha base passo a passo.
+
+---
+
+## 📁 Projetos públicos (em breve)
+
+Assim que eu concluir etapas importantes, disponibilizarei exemplos de:
+- Análise de tráfego com Wireshark
+- Laboratório SIEM com Wazuh
+- Scripts de automação em Python
+
+---
+
+## 📫 Contato
+
+Ainda não estou buscando oportunidades. Estou na fase de aprendizado.  
