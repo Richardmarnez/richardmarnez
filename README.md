@@ -21,16 +21,6 @@
 
 ## 🧠 O que estou estudando
 
-### Google Cybersecurity Certificate
-
-- 🐍 **Python para automação de tarefas de segurança**
-- 🐧 **Linux (terminal, permissões, logs, serviços)**
-- 🗄️ **SQL para consultas em bancos de dados de ameaças**
-- 📡 **SIEM (Splunk) – análise de alertas e correlação de eventos**
-- 🛡️ **IDS/IPS (Snort/Suricata) – detecção de intrusão**
-- 🚨 **Resposta a incidentes e análise de impacto**
-- 🤖 **IA aplicada à busca de emprego e otimização de candidaturas**
-
 ### Programa CiberEducação Cisco Brasil — SENAI + Cisco (140h)
 
 **🌐 Fundamentos de Redes (70h)**
